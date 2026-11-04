@@ -1,0 +1,5 @@
+name = input("你的名字是？")
+print(f"你好，{name}!欢迎来到Python!")
+a = int(input("第一个数字:"))
+b = int(input("第二个数字:"))   
+print(a + b)    
